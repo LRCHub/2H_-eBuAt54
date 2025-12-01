@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Ruin My Life",
+  "base_artist": "Zara Larsson",
+  "createdAt": "2025-12-01T06:06:34.398880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ruin My Life",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/01_Ruin_My_Life_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ruin My Life - Orchestral Version",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/02_Ruin_My_Life_-_Orchestral_Version_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ruin My Life (Orchestral Version)",
+      "artist": "Zara Larsson",
+      "has_synced": false,
+      "path": "select/03_Ruin_My_Life_(Orchestral_Version)_Zara_Larsson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ruin My Life (orchestral version)",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/04_Ruin_My_Life_(orchestral_version)_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ruin My Life (feat. Deryck Whibley)",
+      "artist": "Simple Plan feat. Deryck Whibley",
+      "has_synced": true,
+      "path": "select/05_Ruin_My_Life_(feat._Deryck_Whibley)_Simple_Plan_feat._Deryck_Whibley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ruin My Life (feat. Deryck Whibley)",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/06_Ruin_My_Life_(feat._Deryck_Whibley)_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ruin My Life",
+      "artist": "Simple Plan (ft. Deryck Whibley)",
+      "has_synced": true,
+      "path": "select/07_Ruin_My_Life_Simple_Plan_(ft._Deryck_Whibley).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ruin My Life",
+      "artist": "Hollywood Undead",
+      "has_synced": true,
+      "path": "select/08_Ruin_My_Life_Hollywood_Undead.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ruin My Life",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/09_Ruin_My_Life_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ruin My Life",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/10_Ruin_My_Life_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ruin My Life",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/11_Ruin_My_Life_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ruin My Life (feat. Deryck Whibley)",
+      "artist": "Simple Plan, Deryck Whibley",
+      "has_synced": true,
+      "path": "select/12_Ruin_My_Life_(feat._Deryck_Whibley)_Simple_Plan,_Deryck_Whibley.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ruin My Life (Piano Version)",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/13_Ruin_My_Life_(Piano_Version)_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ruin My Life (piano version)",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/14_Ruin_My_Life_(piano_version)_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ruin My Life",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/15_Ruin_My_Life_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ruin My Life (Futosé Remix)",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/16_Ruin_My_Life_(Futosé_Remix)_Zara_Larsson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ruin My Life",
+      "artist": "Zara Larsson",
+      "has_synced": false,
+      "path": "select/pl_01_Ruin_My_Life_Zara_Larsson.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Ruin My Life",
+      "artist": "Zara Larsson",
+      "has_synced": false,
+      "path": "select/pl_02_Ruin_My_Life_Zara_Larsson.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ruinmylife",
+      "artist": "Zara Larsson",
+      "has_synced": false,
+      "path": "select/pl_03_ruinmylife_Zara_Larsson.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Ruin My Life (feat. Deryck Whibley)",
+      "artist": "Zara Larsson",
+      "has_synced": false,
+      "path": "select/pl_04_Ruin_My_Life_(feat._Deryck_Whibley)_Zara_Larsson.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Ruin My Life (feat. Deryck Whibley)",
+      "artist": "Zara Larsson",
+      "has_synced": false,
+      "path": "select/pl_05_Ruin_My_Life_(feat._Deryck_Whibley)_Zara_Larsson.txt"
+    }
+  ]
+}
